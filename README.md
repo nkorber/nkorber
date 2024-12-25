@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me 👋
+
+- 🔭 I’m currently working on some ESP-IDF projects that go on my boat. Winter is a good time for this job.
+- 🌱 I’m always learning 
 
 <!--
 **nkorber/nkorber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
